@@ -17,7 +17,7 @@
 
 ### About Me :
 
-I am a Full Stack Developer from Russia.
+I am a Full Stack Developer.
 
 ### Languages and Tools :
 <div>
