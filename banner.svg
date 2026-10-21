@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <!-- Background -->
+  <rect width="1200" height="320" rx="16" fill="#161B22"/>
+  <!-- Monogram -->
+  <text x="600" y="215" text-anchor="middle"
+        font-family="'Arial Black','Helvetica Neue',Arial,sans-serif"
+        font-weight="900" font-size="200" fill="#FFFFFF" letter-spacing="6">RN</text>
+  <!-- Accent line -->
+  <rect x="520" y="248" width="160" height="4" rx="2" fill="#3FB950"/>
+  <!-- Tagline -->
+  <text x="600" y="288" text-anchor="middle"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+        font-size="22" fill="#8B949E" letter-spacing="4">HARDWARE · FIRMWARE · SOFTWARE</text>
+</svg>
